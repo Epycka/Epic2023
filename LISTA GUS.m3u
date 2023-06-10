@@ -22,3 +22,6 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="Argentina", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="CINECANAL HD" tvg-name="CINECANAL HD" tvg-logo="http://puu.sh/reQmr/5de8d7417e.png" group-title="CINE",CINECANAL HD
+http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2577
+
